@@ -9,11 +9,12 @@
        src="extra/promo/alacritty-readme.png">
 </p>
 ## About
-Sweet Tooth is a fork of Alacritty that adds varius visual effects to it.
-Code for smooth cursor is ported from [GregTheMadMonk's](https://github.com/GregTheMadMonk) [fork](https://github.com/GregTheMadMonk/alacritty-smooth-cursor)
+
+
+Sweet Tooth is a fork of Alacritty that adds varius visual effects to it. 
+Code for smooth cursor is ported from [GregTheMadMonk's](https://github.com/GregTheMadMonk) [fork](https://github.com/GregTheMadMonk/alacritty-smooth-cursor) .
 ## Original README
---
-## About
+
 
 Alacritty is a modern terminal emulator that comes with sensible defaults, but
 allows for extensive [configuration](#configuration). By integrating with other
